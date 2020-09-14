@@ -8,3 +8,4 @@
 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 8 hours listening song everyday.
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NARESHSDE)](https://github.com/anuraghazra/github-readme-stats)
